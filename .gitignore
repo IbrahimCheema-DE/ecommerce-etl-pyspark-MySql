@@ -1,0 +1,5 @@
+data.csv
+*.jar
+*.csv
+__pycache__/
+.ipynb_checkpoints/
